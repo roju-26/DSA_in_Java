@@ -1,4 +1,4 @@
-package FindingMissingNumber;
+package day11FindingMissingNumber;
 
 public class Missing_Number {
 
